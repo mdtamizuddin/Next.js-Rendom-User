@@ -9,6 +9,7 @@ const User = () => {
         fetch('https://api.randomuser.me/').then(res =>
             res.json()
         )
+        
     )
 
     const user = data?.results[0]

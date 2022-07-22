@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Blake",
+                "last": "Fortin"
+            },
+            "location": {
+                "street": {
+                    "number": 456,
+                    "name": "Regent Ave"
+                },
+                "city": "Delta",
+                "state": "Prince Edward Island",
+                "country": "Canada",
+                "postcode": "Z5R 9L0",
+                "coordinates": {
+                    "latitude": "-65.0091",
+                    "longitude": "-10.7365"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "blake.fortin@example.com",
+            "login": {
+                "uuid": "24b0c4be-c9cf-4a42-a6c8-ca2172c94945",
+                "username": "silverleopard821",
+                "password": "gsxr750",
+                "salt": "UJW8PpiA",
+                "md5": "9977c8437ea8d6dbca7a8b07492d8eae",
+                "sha1": "806984fd7143e6b5c83591fc26b103c827d357ae",
+                "sha256": "9626bd587b455443f36fedcaaadc437a4f8560105eba6bfce2cae300a9013fbc"
+            },
+            "dob": {
+                "date": "1980-06-03T10:57:52.920Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2005-07-18T22:53:52.233Z",
+                "age": 17
+            },
+            "phone": "L17 Q25-2386",
+            "cell": "E51 G73-3599",
+            "id": {
+                "name": "SIN",
+                "value": "983396847"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/7.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "b777d787a8a2d8ff",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
